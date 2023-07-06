@@ -1,0 +1,10 @@
+Create Snake Body
+Move the Snake
+Control the Snake
+
+Detect Colision with Food
+Create Scoreboard
+Detect collision with Wall
+Detect collision with Tail
+
+
