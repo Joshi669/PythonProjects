@@ -1,0 +1,3 @@
+nutrionx_api_appid = d11c9bfa
+nutrionx_api_key = 42a485e8fcb3ab777e9756b37ad80f3d
+
